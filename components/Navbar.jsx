@@ -21,7 +21,7 @@ const Navbar = () => (
         alt='search'
         className='w-[24] h-[24] object-contain'
       /> */}
-      <h2 className='font-extrabold text-[24px] leading-[30px] text-white'>
+      <h2 className='font-extrabold text-[24px] leading-[30px] text-black'>
         HEBE CELENE
       </h2>
       <img 

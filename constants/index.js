@@ -73,14 +73,19 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'www.x.com'
 
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: 'www.x.com'
+
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'www.x.com'
+
   },
 ];

@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 .body_main{
-  background-image: url('/hebecewebsite.png');
-  background-size: 1900px;
+  background-image: url('/background2.jpg');
+  background-size: 1950px;
+  
 
 }
 * {
@@ -12,7 +15,8 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Eudoxus Sans", sans-serif;
-  scroll-behavior: smooth;
+  scrollbar-width: none;
+  overflow: hidden
 }
 
 .gradient-01 {

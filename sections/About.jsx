@@ -26,7 +26,7 @@ const About = () => (
           variants={fadeIn('up', 'tween', 0.2,1)}
           className='mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white'
         > lalalallalalall
-          <span className='font-extrabold text-white'> BOLD AF</span>
+          <span className='font-extrabold text-black'> BOLD AF</span>
 
         </motion.p>
         <motion.img 

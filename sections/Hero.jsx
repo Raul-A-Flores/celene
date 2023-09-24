@@ -34,15 +34,21 @@ const Hero = () => (
         className='relative w-full md:-mt-[20px] -mt-[12px]'
         >
               <img 
-                src='/logo.jpg'
+                src='/colorLogo.png'
                 alt='cover'
-                className='w-[full] sm:h-[600px] h-[350px] object-cover rounded-tl-[140px] z-10 relative'
+                className='w-[full] sm:h-[200px] h-[300px] object-cover rounded-tl-[140px] z-10 relative'
               />
         
 
       </motion.div>
     </motion.div>
-    <iframe src="https://player.twitch.tv/?channel=hebecelene&parent=celene-moonfox.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+    <div className='mt-5 flex justify-end mr-20 '>
+      <iframe 
+        src="https://player.twitch.tv/?channel=hebecelene&parent=celene-moonfox.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620">
+
+      </iframe>
+
+    </div>
 
   </section>
 );
