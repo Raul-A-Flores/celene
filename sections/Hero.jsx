@@ -44,7 +44,7 @@ const Hero = () => (
     </motion.div>
     <div className='mt-5 flex justify-end mr-20 '>
       <iframe 
-        src="https://player.twitch.tv/?channel=hebecelene&parent=celene-moonfox.com"
+        src="https://player.twitch.tv/?channel=hebecelene&parent=127.0.0.1&parent=celene-moonfox.com"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; fullscreen"
         frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620">
 
