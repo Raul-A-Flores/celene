@@ -49,6 +49,12 @@ const Hero = () => (
         frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620">
 
       </iframe>
+      <iframe
+        id="chat_embed"
+        src="https://www.twitch.tv/embed/hebecelene/chat?parent=celene-moonfox.comm"
+        height="500"
+        width="350">
+      </iframe>
 
     </div>
 
